@@ -1,5 +1,0 @@
-1. Project inserted into the OntologyElement GS.
-2. Created constraint to avoid a Project to have a project property with another Project.
-3. Added visual representation of generalization sets' constraints on OntoUML Element diagram.
-4. Added visual representation of constraints.
-5. Created folder diagram images.
