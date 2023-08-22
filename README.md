@@ -2,13 +2,17 @@
 
 The OntoUML Metamodel repository contains the metamodel of the OntoUML language. Unlike the UML profile, this version is independent of UML and presents only the concepts officially supported in the language. This metamodel covers the abstract and concrete syntaxes of the language and serves as the reference for all projects in the [OntoUML as a Service (OaaS)](https://ceur-ws.org/Vol-2969/paper29-FOMI.pdf) ecosystem, including its different model serializations.
 
-## Abstract Syntax Summary
+## Abstract Syntax
 
-![](./diagrams/Abstract%20Syntax%20Summary.png)
+![](./diagrams/Abstract%20Syntax.png)
 
-## Concrete Syntax Summary
+## Concrete Syntax
 
-![](./diagrams/Concrete%20Syntax%20Summary.png)
+![](./diagrams/Concrete%20Syntax.png)
+
+## Containment Relations
+
+![](./diagrams/Containment%20Relations.png)
 
 ## Repository Organization
 
